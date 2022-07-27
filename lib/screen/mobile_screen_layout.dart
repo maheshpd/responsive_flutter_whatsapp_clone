@@ -62,5 +62,6 @@ class MobileScreenLayout extends StatelessWidget {
         ),
       ),
     );
+
   }
 }
