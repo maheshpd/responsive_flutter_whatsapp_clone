@@ -73,7 +73,6 @@ class MobileChatScreen extends StatelessWidget {
                 contentPadding: const EdgeInsets.all(10)),
           ),
         ],
-        //Text Input for message
       ),
     );
   }
