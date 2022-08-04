@@ -1,16 +1,7 @@
 # flutter_whatsapp_clone
 
-A new Flutter project.
+<img src="https://user-images.githubusercontent.com/26844387/182757849-167600ba-8e4d-4f60-b919-b5b7f9c6ad4b.png" width="200" height="400" />  <img src="https://user-images.githubusercontent.com/26844387/182757939-6a1b47a8-cae7-48d2-be19-27d596794a9e.png" width="200" height="400" />  
 
-## Getting Started
+Website Design
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/26844387/182758001-b49ff47a-2c93-4834-a416-5be56e6f4ebc.png" width="200" height="400" />
