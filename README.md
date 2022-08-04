@@ -4,4 +4,4 @@
 
 Website Design
 
-<img src="https://user-images.githubusercontent.com/26844387/182758001-b49ff47a-2c93-4834-a416-5be56e6f4ebc.png" width="1200" height="800" />
+<img src="https://user-images.githubusercontent.com/26844387/182758001-b49ff47a-2c93-4834-a416-5be56e6f4ebc.png" width="1200" height="600" />
